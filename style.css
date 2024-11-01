@@ -1,0 +1,12 @@
+#gdgOnSogang {
+    background-color: rgb(146, 179, 165);
+
+}
+
+main {
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
